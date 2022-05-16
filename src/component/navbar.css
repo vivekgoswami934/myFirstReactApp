@@ -1,0 +1,35 @@
+  
+  .main{
+      width: 95%;
+      display: flex;
+      justify-content: space-between;
+      background-color: black;
+      margin: auto;
+      border-radius: 10px;
+  }
+  .first{
+      color: aliceblue;
+  }
+  .second{
+      display: flex; 
+
+
+      gap: 12px;
+      color: whitesmoke 
+       
+  }
+  .third{
+      margin-right: 40px;
+  }
+  button{
+      border-radius: 10px;
+      background-color: aqua;
+      margin: auto;
+      
+      
+  }
+  
+  .data{
+      margin-left: 200px;
+      margin-top: 50px;
+  }
